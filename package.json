@@ -65,6 +65,8 @@
     "webpack-dev-server": "^4.7.4",
     "jest": "^27.5.1",
     "@testing-library/jest-dom": "^5.16.2",
-    "@types/jest": "^27.4.1"
+    "@types/jest": "^27.4.1",
+    "@types/webpack-bundle-analyzer": "^4.4.1",
+    "webpack-bundle-analyzer": "^4.5.0"
   }
 }
